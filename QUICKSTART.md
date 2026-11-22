@@ -11,7 +11,7 @@ Get up and running with Heart Disease Prediction in 5 minutes!
 
 ```bash
 # If you're cloning from GitHub
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/Monobenzaim/heart-disease.git heart-disease-prediction
 cd heart-disease-prediction
 
 # Or if you downloaded a ZIP file, extract it and navigate to the folder

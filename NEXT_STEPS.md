@@ -45,15 +45,7 @@ The app will open automatically at http://localhost:8501
 ## 🎨 Customization Ideas
 
 ### Update Your Information
-1. Open `README.md` and replace:
-   - `yourusername` with your GitHub username
-   - `your.email@example.com` with your email
-   - Add your name and LinkedIn profile
-
-2. Open `src/__init__.py` and add your name:
-   ```python
-   __author__ = "Your Name"
-   ```
+✅ Done: `README.md`, `LICENSE` and `src/__init__.py` contain your name, email, LinkedIn and GitHub links.
 
 ### Customize the Theme
 Edit `.streamlit/config.toml` to change colors:
@@ -82,7 +74,7 @@ git commit -m "Initial commit: Heart Disease Prediction System"
 
 # Create GitHub repository (on github.com)
 # Then connect and push:
-git remote add origin https://github.com/yourusername/heart-disease-prediction.git
+git remote add origin https://github.com/Monobenzaim/heart-disease.git
 git branch -M main
 git push -u origin main
 ```
@@ -102,12 +94,12 @@ git push
 2. **Sign in** with GitHub
 3. **Click** "New app"
 4. **Select:**
-   - Your repository: `yourusername/heart-disease-prediction`
+   - Your repository: `Monobenzaim/heart-disease`
    - Branch: `main`
    - Main file: `app.py`
 5. **Click** "Deploy"
 
-Your app will be live at: `https://yourusername-heart-disease-prediction.streamlit.app`
+Your app will be live at a `*.streamlit.app` address (you can choose the subdomain in the app settings).
 
 **Note:** Make sure your GitHub repo is public!
 
@@ -245,7 +237,7 @@ streamlit run app.py --server.port 8502
 git remote -v
 
 # Reset and try again
-git remote set-url origin https://github.com/yourusername/heart-disease-prediction.git
+git remote set-url origin https://github.com/Monobenzaim/heart-disease.git
 ```
 
 ## 🎉 You're All Set!

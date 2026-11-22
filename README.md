@@ -87,7 +87,7 @@ heart-disease-prediction/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/Monobenzaim/heart-disease.git heart-disease-prediction
 cd heart-disease-prediction
 ```
 
@@ -336,9 +336,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities:
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+**Abdelmouaine Benzaim**
+
+- **Email**: [benzaimabdelmouaine@gmail.com](mailto:benzaimabdelmouaine@gmail.com)
+- **LinkedIn**: [Abdelmouaine Benzaim](https://www.linkedin.com/in/abdelmouain-benzaim-45b9102b5/)
+- **GitHub**: [@Monobenzaim](https://github.com/Monobenzaim)
+- **Issues**: [Report a bug or request a feature](https://github.com/Monobenzaim/heart-disease/issues)
 
 ## 🔮 Future Enhancements
 
